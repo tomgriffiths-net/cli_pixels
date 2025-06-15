@@ -1,8 +1,8 @@
 {
     "id_name": "cli_pixels",
-    "version": 2,
+    "name": "CLI Pixels (Dev)",
+    "version": 3,
     "author": "tom",
-    "name": "PHP CLI Pixels library",
-    "description": "The PHP CLI Pixels library allows you to adress a 120 by 29 set of pixels in the cli window.",
+    "description": "",
     "dependencies": []
 }
